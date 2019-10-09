@@ -3,7 +3,8 @@ Using the Neat python library, bots are trained to get through an obstacle cours
 
 
 <a href="https://imgflip.com/gif/3chhjx"><img src="https://i.imgflip.com/3chhjx.gif" title="made at imgflip.com"/></a>
-(runs smoother on actual computer)
+
+(runs smoother on computer)
 # Requirments
  - python Pygame
  - NEAT library
