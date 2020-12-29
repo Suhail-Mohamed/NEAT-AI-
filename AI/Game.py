@@ -10,7 +10,6 @@ width = 500
 height = 700
 Gap = 50
 Speed = 1
-choices = ["Left","Right"]
 len_gen = 50
 wind = pygame.display.set_mode((width, height)) #set the game window
 myfont = pygame.font.SysFont('Comic Sans MS', 15)
